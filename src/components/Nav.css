@@ -1,0 +1,51 @@
+#navbar{
+    background-color: #4C1454;
+    width: 1440px;
+    height: 88px;
+}
+#root{
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.header-navbar{
+    margin-right: 14px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+}
+#author{
+    display: flex;
+    justify-content: left;
+}
+#brand{
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.whattodo{
+    display: flex;
+    justify-content: right;
+}
+#nav1:hover{
+    color:#ffffff;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+    text-decoration-thickness: 4px;
+  transition: 0.5s 
+}
+#nav2:hover{
+    color:#ffffff;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+    text-decoration-thickness: 4px;
+  transition: 0.5s 
+}
