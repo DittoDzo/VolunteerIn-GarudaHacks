@@ -29,7 +29,7 @@ function Selection(){
         <img src="src/assets/Buildings.png" class="card-img-top" alt="..."/>
         <div class="card-body">
           <h5 class="card-title">Organization</h5>
-          <Link to="/sign-in" class='btn btn-primary ' style={{width: '8rem', color: 'white', backgroundColor: '#4C1454', marginTop: '1rem'}}>Make Activity</Link>
+          <Link to="/sign-up" class='btn btn-primary ' style={{width: '8rem', color: 'white', backgroundColor: '#4C1454', marginTop: '1rem'}}>Make Activity</Link>
         </div>
       </div>
     </div>

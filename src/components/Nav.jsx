@@ -18,7 +18,7 @@ function Nav(){
       <Link to={'/log-in'} class="navbar-brand text-color" style={{color: 'white', fontFamily: 'Montserrat', fontSize: '18px'}}>Log In</Link> <span style={{color: 'white'}}> | </span>
         </li>
         <li class="nav-item">
-        <Link to={'/sign-in'} class="navbar-brand text-color" style={{color: 'white', fontFamily: 'Montserrat', marginLeft: '1rem', fontSize: '18px'}}>Sign Up</Link>
+        <Link to={'/sign-up'} class="navbar-brand text-color" style={{color: 'white', fontFamily: 'Montserrat', marginLeft: '1rem', fontSize: '18px'}}>Sign Up</Link>
         </li>
       </ul>
     </div>
