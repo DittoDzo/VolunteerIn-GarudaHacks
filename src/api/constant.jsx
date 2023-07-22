@@ -1,0 +1,3 @@
+export const API = "http://localhost:1337/api";
+export const AUTH_TOKEN = "ca1cdd61e5b9ce55364b6a78d406f358eefe1bc45f30bd82fc93895c44eb6291596a5bd2afd7f470efb78dfb7036062056d2c9428448d1934d75a39416409aafcc96d5de094477127035e4d0aad3c13487327c72fc8185c18965956f8cc376d8d8f89830be4e4eec1b43bac5135b35f7a18f79744cae4d6482b99ded7c2c782f";
+export const BEARER = "Bearer";

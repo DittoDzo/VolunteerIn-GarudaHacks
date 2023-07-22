@@ -14,7 +14,7 @@ function App(props){
     <BrowserRouter>
     <Routes>
       <Route path='/' element={<Selection/>}/>
-      <Route path='/sign-in' element={<SignIn/>}/>
+      <Route path='/sign-up' element={<SignIn/>}/>
       <Route path='/log-in' element={<LogIn/>}/>
       <Route path='/activity' element={<Acticity/>}/>
       <Route path='/Volunteer' element={<Volunteer/>}/>
